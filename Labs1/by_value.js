@@ -1,3 +1,5 @@
+'use strict';
+
 const inc = (x) => ++x
 
 const a = 5;
