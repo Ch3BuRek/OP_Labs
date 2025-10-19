@@ -2,7 +2,7 @@
 
 function myFunction() {
   console.log(x);
-  var x = 10;
+  var x = 1010;
   console.log(x);
 }
 
